@@ -164,7 +164,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/576p-vtt/
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37035.ts
+http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37034.ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
