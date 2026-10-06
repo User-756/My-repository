@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="GLOBO MINAS GERAIS" tvg-name="GLOBO SUDESTE" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Minas HD
 
-http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
