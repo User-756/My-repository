@@ -50,7 +50,7 @@ http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://45.162.64.114:80/ESPN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-https://megaflix.mgfiles.lat/16dcba71bc5172dac8f22369ad973a7f/file.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
@@ -62,15 +62,15 @@ http://46.151.196.223:14468/
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
 https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://cr7v.short.gy/Canal2/index.m3u8
+https://cr7v.short.gy/Pre2/ManoTV/index.m3u8
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://cr7v.short.gy/Canal3/index.m3u8
+https://cr7v.short.gy/Pre3/ManoTV/index.m3u8
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://cr7v.short.gy/Canal4/index.m3u8
+https://cr7v.short.gy/Pre4/ManoTV/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+https://cr7v.short.gy/Pre5/ManoTV/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+https://cr7v.short.gy/Pre6/ManoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES", Paramount+
 https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/paramountplus.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | FUTEBOL",Prime Vídeo HD
