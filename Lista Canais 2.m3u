@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="GLOBO MINAS GERAIS" tvg-name="GLOBO SUDESTE" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Minas HD
 
-http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+http://64.31.23.207:80/96795792/50165825/5298272.ts
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
 http://64.31.23.207:80/96795792/50165825/5298126.ts
